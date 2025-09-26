@@ -1,2 +1,2 @@
 
-FROM openjdk:8-jdk
+FROM openjdk:25-jdk
